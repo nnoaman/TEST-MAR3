@@ -33,18 +33,7 @@ jobs:
     name: Create workload environment
     environment: ${{ inputs.deployer }}
     runs-on: ubuntu-latest
-    container:
-      image: ghcr.io/nnoaman/sap-automation:github_actions
     steps:
-      - name: Upgrade GitHub CLI
-        run: |
-          echo "Checking current gh version..."
-          gh --version
-          echo "Upgrading GitHub CLI..."
-          sudo apt update && sudo apt install -y gh
-          echo "Updated gh version:"
-          gh --version
-
       - name: Get app token
         id: get_workflow_token
         uses: peter-murray/workflow-application-token-action@v3
