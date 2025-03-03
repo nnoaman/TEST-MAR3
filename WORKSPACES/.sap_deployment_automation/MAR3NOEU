@@ -1,0 +1,13 @@
+ARM_SUBSCRIPTION_ID=d6c8e3b6-467e-452e-97c9-49d9de9e37da
+sshsecret=MAR3-NOEU-DEP03-sshkey
+deployer_random_id=f3Se-g
+deployer_public_ip_address=13.74.100.124
+deployer_app_config_name=mar3noeuapc7f7
+created_resource_group_name=MAR3-NOEU-DEP03-INFRASTRUCTURE
+keyvault=MAR3NOEUDEP03user7F7
+environment=MAR3
+subscription=d6c8e3b6-467e-452e-97c9-49d9de9e37da
+client_id=118a5ea7-5577-4298-9d47-32e315d5a446
+tenant_id=c01abe72-ffef-4ecc-bda0-937975b49e6b
+STATE_SUBSCRIPTION=d6c8e3b6-467e-452e-97c9-49d9de9e37da
+step=2
