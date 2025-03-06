@@ -1,0 +1,13 @@
+keyvault=MAR3NOEUDEP03user7F7
+ARM_SUBSCRIPTION_ID=d6c8e3b6-467e-452e-97c9-49d9de9e37da
+REMOTE_STATE_RG=MAR3-NOEU-SAP_LIBRARY
+client_id=118a5ea7-5577-4298-9d47-32e315d5a446
+tenant_id=c01abe72-ffef-4ecc-bda0-937975b49e6b
+deployer_tfstate_key=MAR3-NOEU-DEP03-INFRASTRUCTURE.terraform.tfstate
+REMOTE_STATE_SA=mar3noeutfstate426
+subscription=d6c8e3b6-467e-452e-97c9-49d9de9e37da
+STATE_SUBSCRIPTION=d6c8e3b6-467e-452e-97c9-49d9de9e37da
+tfstate_resource_id=/subscriptions/d6c8e3b6-467e-452e-97c9-49d9de9e37da/resourceGroups/MAR3-NOEU-SAP_LIBRARY/providers/Microsoft.Storage/storageAccounts/mar3noeutfstate426
+workload_zone_prefix=MAR03-NOEU-SAP01
+landscape_tfstate_key=MAR03-NOEU-SAP01-INFRASTRUCTURE.terraform.tfstate
+workloadkeyvault=MAR03NOEUSAP01userF85
