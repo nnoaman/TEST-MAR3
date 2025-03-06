@@ -30,7 +30,7 @@ environment="@@ENV@@"
 location="@@REGION@@"
 
 # The network logical name is mandatory - it is used in the naming convention and should map to the workload virtual network logical name
-network_name="@@VNET@@"
+network_logical_name="@@VNET@@"
 
 # network_address_space is a mandatory parameter when an existing virtual network is not used
 network_address_space="10.110.0.0/16"
